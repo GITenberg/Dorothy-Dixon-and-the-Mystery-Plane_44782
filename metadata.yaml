@@ -1,0 +1,30 @@
+_repo: Dorothy-Dixon-and-the-Mystery-Plane_44782
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44782-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wayne, Dorothy
+    birthdate: 1884
+    gutenberg_agent_id: '42863'
+    url: http://www.gutenberg.org/2009/agents/42863
+    wikipedia: http://www.gutenberg.org/ebooks/author/37938
+description: ''
+gutenberg_issued: '2014-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44782'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery and detective stories'
+- !lcc 'PZ'
+- !lcsh 'Smuggling -- Juvenile fiction'
+- !lcsh 'Gangsters -- Juvenile fiction'
+- !lcsh 'Women detectives -- Juvenile fiction'
+- !lcsh 'Boats and boating -- Juvenile fiction'
+title: Dorothy Dixon and the Mystery Plane
+url: http://www.gutenberg.org/ebooks/44782
