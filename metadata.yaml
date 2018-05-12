@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42863
     wikipedia: http://www.gutenberg.org/ebooks/author/37938
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44782#Dorothy-Dixon-and-the-Mystery-Plane
 gutenberg_issued: '2014-01-28'
 gutenberg_type: Text
 identifiers:
